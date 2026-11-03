@@ -397,8 +397,8 @@
     "Id": "407fdbba-bdab-4bc1-aa09-b46e811155a6",
     "Name": "LocalSend",
     "Author": "qianlifeng",
-    "Version": "0.0.1",
-    "MinWoxVersion": "2.0.0",
+    "Version": "0.1.0",
+    "MinWoxVersion": "2.5.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
     "IconUrl": "https://raw.githubusercontent.com/qianlifeng/Wox.Plugin.LocalSend/refs/heads/main/images/app.png",
@@ -413,7 +413,7 @@
       "linux"
     ],
     "DateCreated": "2026-01-02 22:40:00",
-    "DateUpdated": "2026-01-02 22:40:00",
+    "DateUpdated": "2026-11-03 20:49:11",
     "I18n": {
       "en_US": {
         "plugin_description": "Share files via LocalSend protocol"
@@ -606,7 +606,7 @@
     "Id": "6dd42f91-009d-4d14-909c-97f25454eea7",
     "Name": "i18n:plugin_name",
     "Author": "qianlifeng",
-    "Version": "0.0.4",
+    "Version": "0.1.0",
     "MinWoxVersion": "2.0.0",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
@@ -622,7 +622,7 @@
       "Linux"
     ],
     "DateCreated": "2026-03-18 11:14:02",
-    "DateUpdated": "2026-03-19 12:09:13",
+    "DateUpdated": "2026-11-03 20:49:12",
     "I18n": {
       "en_US": {
         "plugin_name": "Awake",
@@ -732,8 +732,8 @@
     "Id": "263fa95c-db99-4dc8-be68-784b5ae421f8",
     "Name": "i18n:plugin_name",
     "Author": "stmluyuer",
-    "Version": "0.1.4",
-    "MinWoxVersion": "2.0.4",
+    "Version": "0.1.8",
+    "MinWoxVersion": "2.4.8",
     "Runtime": "nodejs",
     "Description": "i18n:plugin_description",
     "IconUrl": "https://raw.githubusercontent.com/stmluyuer/Wox.Plugin.LuxTranslate/main/images/app.svg",
@@ -752,7 +752,7 @@
       "Linux"
     ],
     "DateCreated": "2026-04-28 13:05:57",
-    "DateUpdated": "2026-10-19 03:07:15",
+    "DateUpdated": "2026-11-03 20:49:13",
     "I18n": {
       "en_US": {
         "plugin_name": "LuxTranslate",
@@ -1014,8 +1014,8 @@
     "Id": "c3e8a7d2-4b1f-4e6a-9d2c-8f5a1b0e7c34",
     "Name": "i18n:plugin_name",
     "Author": "qianlifeng",
-    "Version": "1.0.0",
-    "MinWoxVersion": "2.0.0",
+    "Version": "1.1.0",
+    "MinWoxVersion": "2.4.9",
     "Runtime": "script",
     "Description": "i18n:plugin_description",
     "IconUrl": "https://avatars.githubusercontent.com/u/16618068?s=128",
@@ -1028,7 +1028,7 @@
       "Windows"
     ],
     "DateCreated": "2026-09-01 22:55:00",
-    "DateUpdated": "2026-09-01 22:55:00",
+    "DateUpdated": "2026-11-03 20:49:16",
     "I18n": {
       "en_US": {
         "plugin_name": "Scoop",
